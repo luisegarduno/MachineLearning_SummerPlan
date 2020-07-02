@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Provided Notes
-#MachineLearningNotebook/
+MachineLearningNotebooks/
+.MachineLearningNotebooks
