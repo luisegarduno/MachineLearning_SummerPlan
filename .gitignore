@@ -131,3 +131,6 @@ dmypy.json
 # Provided Notes
 MachineLearningNotebooks/
 .MachineLearningNotebooks
+
+# Dataspell
+.idea/
